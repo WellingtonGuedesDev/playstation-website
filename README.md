@@ -1,4 +1,4 @@
 # playstation-website
 Um redesign do site da playstation
 
-demo: https://playstation-redesign.netlify.app/
+<a href="https://playstation-redesign.netlify.app/" target="_blank">demo</a>
