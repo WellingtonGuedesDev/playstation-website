@@ -1,0 +1,15 @@
+
+.button {
+    padding: 14px 39px;
+    border: none;
+    background-color: #fff;
+    border-radius: 10px 0px;
+}
+
+.button a {
+    font-size: var(--standard-font-size);
+    color: var(--secondary-text-color);
+    font-weight: 500;
+    border-radius: 10px 0px;
+    font-family: Roboto; 
+}
