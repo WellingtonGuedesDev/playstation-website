@@ -1,9 +1,12 @@
 
 .button {
+    max-width: 200px;
     padding: 14px 39px;
     border: none;
     background-color: #fff;
     border-radius: 10px 0px;
+    cursor: pointer;
+    text-wrap: nowrap;
 }
 
 .button a {
